@@ -1,0 +1,293 @@
+*
+
+a{
+	text-decoration: none;
+}
+#aLinkedin:hover {
+	opacity: 0.2;
+	background-color: red;
+	font-size: 18px;
+	color: white;
+}
+#aMail:hover {
+	opacity: 0.2;
+	background-color: red;
+	font-size: 18px;
+	color: white;
+}
+#aNum:hover {
+	opacity: 0.2;
+	background-color: red;
+	font-size: 18px;
+	color: white;
+}
+
+a:hover {
+	opacity: 0.2;
+	background-color: black;
+	font-size: 20px;
+}
+
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#divParcours {
+	padding: 10px;
+}
+
+#tr1
+{
+	height: 200px;
+	text-align: center;
+	background-color: red;
+}
+
+#tr1 h1 {
+	border: 2px solid #eeeeee;
+	width: 50%;
+	margin: auto;
+	padding: 21px;
+	margin-bottom: 8px;
+	color: white;
+}
+
+#tr1 p {
+	color: white;
+}
+
+#tr2 {
+	background-color: grey;
+	height: 100px;
+	color: white;
+}
+#tr2 {
+	text-align: right;
+	background-color: grey;
+	height: 50px;
+	color: white;
+}
+
+#tr2 h1 {
+	text-align: center;
+	font-size: 15px;
+	position: absolute;
+	margin-top: -9px; 
+	margin-left: 15px;
+}
+
+#tr2 h2 {
+	text-align: right;
+	font-size: 15px;
+	margin-right: 15px;
+}
+
+
+#tr2 h4 {
+	text-align: center;
+	font-size: 15px;
+	margin-left: 657px;
+	position: absolute;
+	margin-top: -9px; 
+}
+
+
+#tr3 {
+	background-color: white;
+	height: 100px;
+	color: black;
+}
+
+#td1 {
+	width: 30%;
+}
+
+#td1 h2 {
+	color: white;
+	background-color: grey;
+	margin-top: 27.5px;
+	padding: 10px;
+	padding-left: 33px;
+}
+
+#td1 img {
+	width: 50%;
+	border: 4px solid grey;
+	margin-left: 130px;
+	margin-top: 35px;	
+	margin-bottom: 30px;
+}
+
+#td1 p {
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	font-size: 12px;
+	color: black;
+}
+
+#td2 {
+	width: 70%;
+	vertical-align: top;	
+}
+
+#td2 h3 {
+	color: white;
+	background-color: red;
+	margin-top: 28px;
+	margin-left: 30px;
+	margin-bottom: 60px;
+	padding: 15px;
+	padding-left: 33px;
+	border-left: 18px solid grey;
+}
+table {
+	width: 100%;
+}
+
+#td3 h2 {
+	color: white;
+	background-color: grey;
+	margin-top: 20px;
+	padding: 10px;
+	padding-left: 33px;
+	border-right: 18px solid red;
+}
+
+#td3 h3 {
+	color: white;
+	background-color: red;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	padding: 14.5px;
+	padding-left: 30px;
+	border-left: 18px solid grey;
+	margin-left: 30px;
+	font-size: 25px;
+}
+
+.Compétences {
+	width:500px;
+	height:320px;
+	background-color: #d4d4d6;
+	font-size: 25px;
+	text-decoration-color: black;
+	padding-top: 15px;
+	margin-top: 25px;
+}
+
+.Parcours {
+	margin-left: 30px;
+	width: 830px;
+	height:320px;
+	background-color: #d4d4d6;
+	font-size: 20px;
+	text-decoration-color: black;
+}
+
+.box {
+	background-color: #d4d4d6;
+	font-size: 20px;
+	text-decoration-color: black;
+	margin-left: 180px;
+	margin-right: 50px;
+	padding: 15px;
+	width: 1000px;
+	height: 160px;
+	text-align: center;
+	position: absolute;
+	margin-top: 400px;
+}
+
+p.box{
+	position: absolute;
+	margin-top: 60px;
+}
+
+#tr1 h2 {
+	width: 10%;
+	text-align: left;
+	font-size: 25px;
+	color: white;
+}
+
+.box1 {
+	background-color: #d4d4d6;
+	font-size: 20px;
+	text-decoration-color: black;
+	margin-left: 180px;
+	margin-right: 50px;
+	padding: 15px;
+	width: 1000px;
+	height: 330px;
+	text-align: center;
+	position: absolute;
+	margin-top: 350px
+}
+.boxb {
+	background-color: white;
+	position: absolute;
+	width: 1000px;
+	height: 150px;
+	margin-top: 720px;
+	margin-left: 180px;
+	margin-right: 50px;
+}
+.box2 {
+	background-color: #d4d4d6;
+	position: absolute;
+	width: 1000px;
+	height: 150px;
+	margin-top: 350px;
+	margin-left: 180px;
+	margin-right: 50px;
+	text-align: center;
+	padding-top: 25px;
+}
+
+.boxPassion {
+	background-color: #d4d4d6;
+	position: absolute;
+	width: 1000px;
+	height: 150px;
+	margin-top: 400px;
+	margin-left: 180px;
+	margin-right: 50px;
+	text-align: center;
+	padding-top: 15px;
+	font-size: 20px;
+}
+#phone {
+	width: 5%;
+	margin: auto;
+}
+
+#numtel {
+	font-size: 15px;
+	border: 2px solid grey;
+	padding: auto;
+}
+
+#mail {
+	width: 5%;
+	margin: auto;
+}
+
+#adressmail {
+	font-size: 15px;
+	border: 2px solid grey;
+	padding: auto;
+}
+
+#icnlinkedin {
+	width: 5%;
+	margin: auto;
+}
+
+#linkedin {
+	font-size: 15px;
+	border: 2px solid grey;
+	padding: auto;
+}
